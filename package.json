@@ -1,23 +1,33 @@
 {
   "name": "vagalume-dev-theme",
-  "displayName": "vagalume-dev-theme",
-  "publisher": "patrickcfantato",
+  "publisher": "vagalumedev",
   "repository": {
+    "type": "git",
     "url": "https://github.com/vagalumedev/vagalume-dev-vscode.git"
   },
-  "author": {
-      "email": "patrick.fantato@vagalume.digital",
-      "name": "Patrick Fantato",
-      "url": "https://github.com/patrickcfantato"
+  "bugs": {
+    "url": "https://github.com/vagalumedev/vagalume-dev-vscode/issues",
+    "email": "patrick.fantato@vagalume.digital"
   },
-  "description": "",
-  "version": "0.0.1",
+  "author": {
+    "email": "patrick.fantato@vagalume.digital",
+    "name": "Patrick Fantato",
+    "url": "https://github.com/patrickcfantato"
+  },
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.56.0"
   },
   "categories": [
     "Themes"
   ],
+  "displayName": "Vagalume Dev Theme",
+  "description": "Vagalume Dev Theme - A dark theme fine-tuned for those of us who like to code late into the night.",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#52ff66",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
