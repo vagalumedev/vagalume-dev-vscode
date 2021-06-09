@@ -1,0 +1,22 @@
+{
+  "name": "vagalume-dev-theme",
+  "displayName": "vagalume-dev-theme",
+  "publisher": "patrickcfantato",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vagalume Dev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vagalume-dev-color-theme.json"
+      }
+    ]
+  }
+}
