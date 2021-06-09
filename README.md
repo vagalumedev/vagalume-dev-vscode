@@ -1,4 +1,4 @@
-# Night Owl 🌌
+# Vagalume Dev 🐛
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/vagalume.digital.vagalume-dev.svg)](https://aka.ms/nightowl)
 [![Downloads](https://img.shields.io/vscode-marketplace/r/vagalume.digital.vagalume-dev.svg)](https://aka.ms/nightowl)
