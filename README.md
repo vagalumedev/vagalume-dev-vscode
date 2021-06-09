@@ -1,9 +1,10 @@
 # Vagalume Dev 🐛
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/vagalume.digital.vagalume-dev.svg)](https://aka.ms/nightowl)
-[![Downloads](https://img.shields.io/vscode-marketplace/r/vagalume.digital.vagalume-dev.svg)](https://aka.ms/nightowl)
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/vagalumedev.vagalume-dev-theme.svg)](https://marketplace.visualstudio.com/items?itemName=vagalumedev.vagalume-dev-theme)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/vagalumedev.vagalume-dev-theme.svg)](https://marketplace.visualstudio.com/items?itemName=vagalumedev.vagalume-dev-theme)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/vagalumedev.vagalume-dev-theme.svg)](https://marketplace.visualstudio.com/items?itemName=vagalumedev.vagalume-dev-theme)
 
-A Visual Studio Code theme for the fireflies out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration comfort read and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+A Visual Studio Code theme for the fireflies out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration comfort read and in low-light circumstances.
 
 # Installation
 
