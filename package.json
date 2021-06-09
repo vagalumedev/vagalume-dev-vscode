@@ -25,7 +25,7 @@
   "description": "Vagalume Dev Theme - A dark theme fine-tuned for those of us who like to code late into the night.",
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#52ff66",
+    "color": "#1d1d1b",
     "theme": "dark"
   },
   "contributes": {
