@@ -1914,7 +1914,7 @@
     "scrollbarSlider.background": "#52ff6606",
     "scrollbarSlider.hoverBackground": "#49485a20",
     "scrollbarSlider.activeBackground": "#bfbfbf66",
-    "progressBar.background": "#0087FF",
+    "progressBar.background": "#52ff66",
     "widget.shadow": "#00000054",
     "editorWidget.foreground": "#888888",
     "editorWidget.background": "#0a0a07",
