@@ -2,6 +2,14 @@
   "name": "vagalume-dev-theme",
   "displayName": "vagalume-dev-theme",
   "publisher": "patrickcfantato",
+  "repository": {
+    "url": "https://github.com/vagalumedev/vagalume-dev-vscode.git"
+  },
+  "author": {
+      "email": "patrick.fantato@vagalume.digital",
+      "name": "Patrick Fantato",
+      "url": "https://github.com/patrickcfantato"
+  },
   "description": "",
   "version": "0.0.1",
   "engines": {
